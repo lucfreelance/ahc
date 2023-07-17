@@ -2,18 +2,16 @@
 title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Trozos De Realidad es una página donde destacamos algunas de las más interesantes herramientas digitales, para que las conozcas y decidas si quieres usarlas en tu día a día. Hay para todo y todos los gustos: Desde entretenimiento hasta productividad.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://lucfreelance.github.io/tdrdt/" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: lucfreelance
+email: lucfreelance@gmail.com
+facebook_username: lucfreelance
+twitter_username: lucfreelance
+github_username: lucfreelance
 address:
   - line:
   - line:

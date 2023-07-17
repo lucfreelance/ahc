@@ -6,7 +6,7 @@
 
 - bundle exec jekyll serve
 - bundle exec jekyll build
--
+- gem install bundler
 
 # Stylish Portolio template for Jekyll
 
