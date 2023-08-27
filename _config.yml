@@ -1,10 +1,10 @@
 # Site settings
-title:
-email:
+title: atendemos-pc
+email: lucfreelance@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Trozos De Realidad es una página donde destacamos algunas de las más interesantes herramientas digitales, para que las conozcas y decidas si quieres usarlas en tu día a día. Hay para todo y todos los gustos: Desde entretenimiento hasta productividad.
+  Página web de la aplicación de transporte privado terrestre AutoGo
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://lucfreelance.github.io/tdrdt/" # the base hostname & protocol for your site
+url: "https://lucfreelance.github.io/atendemos-pc/" # the base hostname & protocol for your site
 
 # User setting
 owner: lucfreelance
