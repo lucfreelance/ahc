@@ -1,15 +1,30 @@
-Welcome to the **RETO PC** project's README. This RETOsitory is dedicated to showcasing an innovative and engaging collection of PC-related content and tools.
+#This is RETO PC
 
-```asciiart
-[pre]
-[font=Arial][color=red]
-TTTTT [color=blue]DDDD[/color]   [color=green]RRRR[/color]    [color=yellow]DDDD[/color]   TTTTT
-  [color=blue]T[/color]   [color=green]D   D[/color]  [color=yellow]R   R[/color]   [color=blue]D   D[/color]    [color=green]T[/color]
-  [color=blue]T[/color]   [color=green]D   D[/color]  [color=yellow]RRRR[/color]    [color=blue]D   D[/color]    [color=green]T[/color]
-  [color=blue]T[/color]   [color=green]D   D[/color]  [color=yellow]R  R[/color]    [color=blue]D   D[/color]    [color=green]T[/color]
-  [color=blue]T[/color]   [color=green]DDDD[/color]   [color=yellow]R   R[/color]   [color=blue]DDDD[/color]     [color=green]T[/color]
-[/color][/font]
-[/pre]
+```YAML
+    ____    ______  ______  ____    _____     _____
+   / __ \  / ____/ /_   _/ / __ \  /  _  \   /  _  \
+  / /_/ / / __/     / /   / / / / /  /_\  \ /  / \_/
+ / _, _/ / /___    / /   / /_/ /  \   ____/ \  \____Ⓡⓔⓣⓞ
+/_/ |_| /_____/   /_/    \____/    \_/       \_____/ ⓟⓒ
+```
+
+Welcome to the **RETO PC** project's README. This repository is dedicated to showcasing an innovative and engaging collection of PC-related content and tools.
+
+Showcasing expertise for 'Reto PC' a portfolio website that highlights expertise in computer installations, repairs, and maintenance. Also offers insights into a solopreneur venture's range of computing services. From hardware solutions to software finesse, Reto PC provides a glimpse into dedicated technical assistance.
+
+## Nice Commands
+
+```
+
+- `gem install bundler`
+- `bundle install`
+- `bundle exec jekyll serve` **Preview Locally**
+- `bundle exec jekyll build` **Build for Deployment**
+
+```
+
+```
+
 ```
 
 ## Project Highlights
@@ -24,7 +39,7 @@ TTTTT [color=blue]DDDD[/color]   [color=green]RRRR[/color]    [color=yellow]DDDD
 
 To make the most of the RETO PC project, follow these steps:
 
-1. **Clone the RETOsitory**: Begin by cloning this RETOsitory to your local machine.
+1. **Clone the repository**: Begin by cloning this repository to your local machine.
 
 2. **Explore the Content**: Navigate through the folders to discover detailed information about various PC components and tools.
 
@@ -46,12 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for exploring **RETO PC**! We hope you find this RETOsitory informative and valuable for all your PC-related endeavors.
-
-## Nice Commands
-
-```
-+ `gem install bundler`
-+ `bundle install`
-+ `bundle exec jekyll serve` **Preview Locally**
-+ `bundle exec jekyll build` **Build for Deployment**
-```
